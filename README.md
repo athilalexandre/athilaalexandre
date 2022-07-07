@@ -6,7 +6,7 @@
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AthilaAlexandre&show_icons=true&theme=merko">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthilaAlexandre&layout=compact&show_icons=true&theme=merko">
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthilaAlexandre&layout=compact&show_icons=true&theme=merko">
 </div>
 
 <h3>EU DESENVOLVO EM: </h3>
