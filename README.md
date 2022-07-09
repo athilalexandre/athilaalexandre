@@ -18,6 +18,16 @@
   <a href="https://github.com/AthilaAlexandre"><img align="right" height="180" width="150" border-radius="50%" src="https://i.imgur.com/TKmRDKd.png" title="Athila-pic"></a>
 </div>
 <hr>
+<h3 align="center">PROGRAMAS DE EDIÇÃO QUE USO: </h3>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="60" width="60" src="https://i.imgur.com/cSwFg0e.png">
+  <img align="center" height="60" width="60" src="https://i.imgur.com/PLHkK2m.png">
+  <img align="center" height="60" width="60" src="https://i.imgur.com/iSzv5sv.png">
+  <img align="center" height="60" width="60" src="https://i.imgur.com/4NB6yD6.png">
+  <img align="center" height="60" width="60" src="https://i.imgur.com/yF9ZLgj.png">
+  <img align="center" height="60" width="60" src="https://i.imgur.com/O207Av6.png">
+</div>
+<hr>
 
 <h3 align="center"> 🐱‍🏍 REDES SOCIAIS 🐱‍🏍 </h3>
 <div align="center">
