@@ -20,12 +20,12 @@
 <hr>
 <h3 align="center">PROGRAMAS DE EDIÇÃO QUE USO: </h3>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" height="60" width="60" src="https://i.imgur.com/cSwFg0e.png">
-  <img align="center" height="60" width="60" src="https://i.imgur.com/PLHkK2m.png">
-  <img align="center" height="60" width="60" src="https://i.imgur.com/iSzv5sv.png">
-  <img align="center" height="60" width="60" src="https://i.imgur.com/4NB6yD6.png">
-  <img align="center" height="60" width="60" src="https://i.imgur.com/yF9ZLgj.png">
-  <img align="center" height="60" width="60" src="https://i.imgur.com/O207Av6.png">
+  <img hspace="12" align="center" height="60" width="60" src="https://i.imgur.com/cSwFg0e.png">
+  <img hspace="12" align="center" height="60" width="60" src="https://i.imgur.com/PLHkK2m.png">
+  <img hspace="12" align="center" height="60" width="60" src="https://i.imgur.com/iSzv5sv.png">
+  <img hspace="12" align="center" height="60" width="60" src="https://i.imgur.com/4NB6yD6.png">
+  <img hspace="12" align="center" height="60" width="60" src="https://i.imgur.com/yF9ZLgj.png">
+  <img hspace="12" align="center" height="60" width="60" src="https://i.imgur.com/O207Av6.png">
 </div>
 <hr>
 
