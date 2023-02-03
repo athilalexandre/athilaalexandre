@@ -4,11 +4,6 @@
 - 🌱 Estou estudando JS, Python e juntamente estou também aprimorando meus conhecimentos em HTML 5 e CSS3 com as melhores práticas!
 - 😄 Pronomes: ele/dele
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AthilaAlexandre&show_icons=true&theme=merko">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthilaAlexandre&layout=compact&show_icons=true&theme=merko">
-</div>
-
 <h3>EU DESENVOLVO EM: </h3>
 <div style="display: inline_block"><br>
   <a href="https://www.javascript.com"><img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
